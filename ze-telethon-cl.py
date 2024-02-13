@@ -52,13 +52,13 @@ try:
         user_bot = data['user_bot']
         id_bot = data['id_bot']
 except FileNotFoundError:
-    api_id = '25281175'
-    api_hash = '6d99cb2b60a2c519fc1f99bd19565730'
-    bot_token = '6635986173:AAEBuYxPVay10-qYXqrIlXj7Fyr8syQK7jM'
-    DEVLOO = '6581896306'
-    MAX_ACCOUNTS = int('30')
-    user_bot = 'ee0obot'
-    id_bot = int('6635986173')
+    api_id = '16278281'
+    api_hash = '71d7697b76aaba4c35279de3f85c24c4'
+    bot_token = '6984403697:AAHTFLvZf_cgjglKaJIPJYXKBhfNFNbY_24'
+    DEVLOO = '6112162640'
+    MAX_ACCOUNTS = int('50')
+    user_bot = 'dghygbot'
+    id_bot = int('6984403697')
     
     data = {
         'api_id': api_id,
